@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danisha-2004/assets/main/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/danisha-2004/assets/main/banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Danisha M</h1>
 
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Data Analytics</h3>
+<h3 align="center">
+Aspiring Data Analyst | Python | SQL | Data Analytics
+</h3>
 
 <p align="center">
-Passionate about transforming raw data into meaningful insights through data analysis, visualization, and problem solving.
+Turning Data into Meaningful Insights 📊
 </p>
 
 <p align="center">
@@ -21,86 +23,70 @@ Passionate about transforming raw data into meaningful insights through data ana
 </a>
 
 <a href="mailto:danisha3102004@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 B.Tech Information Technology Graduate
 
 📊 Aspiring Data Analyst passionate about solving business problems using data.
 
-💻 Strong knowledge of Python, SQL, NumPy, Pandas, Matplotlib, Seaborn and Excel.
+💻 Skilled in Python, SQL, NumPy, Pandas, Matplotlib, Seaborn and Excel.
 
-📈 Interested in Data Analytics, Business Intelligence and Dashboard Development.
+📈 Interested in Data Analytics, Business Intelligence and Data Visualization.
 
-🌱 Currently learning **Power BI** to build interactive dashboards.
+🌱 Currently learning Power BI.
 
-💼 Software Developer Intern at **Inzpire Solutions**.
+💼 Completed Software Developer Internship at Inzpire Solutions.
 
-🚀 Looking for Data Analyst Internship / Full-Time Opportunities.
+🚀 Open to Data Analyst Internship and Full-Time Opportunities.
+# 💻 Technical Skills
 
----
-
-# 🚀 Technical Skills
-
-### Programming
-
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
 </p>
 
-### Libraries
+<p align="center">
 
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,jupyter"/>
 
-### Tools
-
-- Excel
-- Jupyter Notebook
-- VS Code
-- Git
-- GitHub
-- MySQL
+</p>
 
 ---
 
+# 🛠 Tools & Technologies
+
+| Category | Skills |
+|----------|--------|
+| Programming | Python, SQL |
+| Libraries | Pandas, NumPy, Matplotlib, Seaborn |
+| Database | MySQL |
+| IDE | VS Code, Jupyter Notebook |
+| Version Control | Git, GitHub |
+| Office Tools | Microsoft Excel |
+| Currently Learning | Power BI |
 # 📂 Featured Projects
 
-## 📦 Inventory Management System
+## 📦 Inventory Management System with Demand Forecasting
 
-✔ Inventory Tracking
+Inventory tracking system developed for warehouse management with demand forecasting techniques.
 
-✔ Demand Forecasting
+**Tech Stack**
 
-✔ Warehouse Management
-
-✔ Python
-
-✔ SQL
+Python • SQL
 
 ---
 
 ## 📊 Sales Data Analysis
 
-✔ Data Cleaning
-
-✔ Exploratory Data Analysis
-
-✔ Sales Trend Analysis
-
-✔ Customer Insights
-
-✔ Business Insights
+Performed Exploratory Data Analysis to discover sales trends and business insights.
 
 **Tech Stack**
 
@@ -110,127 +96,75 @@ Python • Pandas • NumPy • Matplotlib • Seaborn
 
 ## 👨‍💼 Employee Attrition Analysis
 
-✔ Employee Behaviour Analysis
+Analyzed employee attrition using HR dataset and identified key factors affecting employee turnover.
 
-✔ HR Analytics
+**Tech Stack**
 
-✔ Attrition Insights
-
-✔ Data Visualization
+Python • Pandas • Matplotlib • Seaborn
 
 ---
 
 ## 🎬 Netflix Content Analysis
 
-✔ Data Cleaning
+Analyzed Netflix content distribution, genres, ratings and country-wise trends.
 
-✔ Content Analysis
+**Tech Stack**
 
-✔ Genre Analysis
-
-✔ Country-wise Analysis
-
-✔ Visualization
+Python • Pandas • Data Visualization
 
 ---
 
 ## 🛒 SQL Mini E-Commerce Project
 
-✔ Database Design
+Designed relational database and solved business queries using SQL.
 
-✔ SQL Queries
+**Tech Stack**
 
-✔ Joins
+MySQL • SQL
+# 🌱 Currently Learning
 
-✔ Aggregate Functions
+✅ Power BI
 
-✔ Data Retrieval
+✅ Advanced SQL
 
----
+✅ Dashboard Development
 
-# 📊 GitHub Statistics
+✅ Business Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=danisha-2004&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danisha-2004&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danisha-2004&theme=tokyonight&hide_border=true"/>
-
-</p>
+✅ Data Storytelling
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎯 2026 Goals
 
-<p align="center">
+✔ Secure a Data Analyst Role
 
-<img src="https://github-profile-trophy.vercel.app/?username=danisha-2004&theme=algolia&no-frame=true&row=1&column=6"/>
+✔ Build 10+ End-to-End Data Projects
 
-</p>
+✔ Master Power BI
 
----
+✔ Learn Machine Learning Fundamentals
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danisha-2004&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 💼 What I'm Currently Working On
-
-🔹 Data Analysis Projects
-
-🔹 SQL Practice
-
-🔹 Power BI Dashboards
-
-🔹 Business Case Studies
-
-🔹 Building my Data Analyst Portfolio
-
----
-
-# 📚 Currently Learning
-
-- Power BI
-- Advanced SQL
-- Dashboard Design
-- Business Analytics
-- Data Storytelling
-
----
-
+✔ Contribute Consistently on GitHub
 # 🌐 Connect With Me
 
-📧 **Email**
+📧 Email
 
-danisha3102004@gmail.com
+**danisha3102004@gmail.com**
 
-💼 **LinkedIn**
+💼 LinkedIn
 
-https://linkedin.com/in/danisha2004
+**https://linkedin.com/in/danisha2004**
 
-💻 **GitHub**
+💻 GitHub
 
-https://github.com/danisha-2004
+**https://github.com/danisha-2004**
 
 ---
 
-# 👀 Profile Views
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=danisha-2004&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=danisha-2004&style=for-the-badge&color=blue"/>
 
 </p>
 
